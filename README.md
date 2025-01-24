@@ -4,7 +4,7 @@ The **Astro Virtual Lab** is an AI-human collaboration platform for astronomical
 
 ## Features
 
-The Astro Virtual Lab is equipped with powerful tools for astronomical research:
+The Astro Virtual Lab will be equipped with powerful tools for astronomical research:
 
 - Data analysis and visualization using standard astronomy packages (astropy, matplotlib)
 - Access to astronomical databases and catalogs through astroquery
