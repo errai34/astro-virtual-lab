@@ -23,7 +23,7 @@ agenda = """
 We want to study the chemical evolution and formation history of the Galactic thick disk.
  Specifically, we aim to:
 1. Analyze the alpha-element abundances and metallicity distribution of thick disk stars
-2. Investigate the age-metallicity relation in different regions of the thick disk
+2. Investigate the age-metallicity relation in different regions of the disk
 3. Compare chemical patterns with theoretical galactic evolution models
 4. Identify potential ex-situ populations based on chemical and kinematic signatures
 
