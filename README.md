@@ -1,6 +1,6 @@
 # Astro Virtual Lab
 
-The **Astro Virtual Lab** is an AI-human collaboration platform for astronomical research adapted from the brilliant work of Kyle Swanson with Virtual La @Stanford. In this Lab, a human researcher works with a team of large language model (LLM) **agents** to perform astronomical research and data analysis. Interaction between the human researcher and the LLM agents occurs via a series of **team meetings**, where all the LLM agents discuss a scientific agenda posed by the human researcher, and **individual meetings**, where the human researcher interacts with a single LLM agent to solve particular astronomical tasks.
+The **Astro Virtual Lab** is an AI-human collaboration platform for astronomical research adapted from the brilliant work of Kyle Swanson with Virtual Lab @Stanford [https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1.full.pdf]. In this Lab, a human researcher works with a team of large language model (LLM) **agents** to perform astronomical research and data analysis. Interaction between the human researcher and the LLM agents occurs via a series of **team meetings**, where all the LLM agents discuss a scientific agenda posed by the human researcher, and **individual meetings**, where the human researcher interacts with a single LLM agent to solve particular astronomical tasks.
 
 ## Features
 
