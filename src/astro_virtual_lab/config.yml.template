@@ -1,0 +1,21 @@
+# Astro Virtual Lab Configuration File Template
+# Copy this file to config.yml and fill in your API keys
+
+# API Keys (Replace with your actual keys)
+api_keys:
+  # OpenAI API key for GPT models
+  # Get your key from: https://platform.openai.com/api-keys
+  openai: "your-openai-api-key"
+  
+  # DeepSeek API key for AI capabilities
+  # Get your key from DeepSeek's platform
+  deepseek: "your-deepseek-api-key"
+  
+  # NASA ADS API key for accessing astronomical data
+  # Get your key from: https://ui.adsabs.harvard.edu/user/settings/token
+  nasa_ads: "your-nasa-ads-api-key"
+
+# Optional: Add any additional configuration settings below
+# settings:
+#   model: "gpt-4"
+#   temperature: 0.7
